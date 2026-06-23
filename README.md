@@ -1,8 +1,6 @@
 ## WELCOME
 
-Passionate about solving real-world problems using data!
-
-Economics graduate from the University of Birmingham with a strong foundation in econometrics and statistical modelling. Currently building a portfolio of projects that reflect the problems and challenges I encounter throughout my career, uncovering trends, investigating root causes, and translating complex datasets into clear, actionable insights. 
+Economics graduate from the University of Birmingham with a strong background in econometrics, statistical modelling, and data analytics. I'm passionate about building a portfolio that reflects real-world problems, discovering new trends, investigating anomalies, and translating data into clear and actionable insights.
 
 &nbsp;
 
