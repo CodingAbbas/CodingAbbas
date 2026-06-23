@@ -1,16 +1,35 @@
-## Hi there 👋
+# ABBAS SHAH
+Economics graduate with a strong foundation in econometrics, 
+statistical modelling, and data analytics. Experienced in 
+applying quantitative methods to real-world financial problems 
+across credit risk, fraud detection, microeconomics, 
+and macroeconomics.
 
-<!--
-**CodingAbbas/CodingAbbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PROJECTS 
+
+[Predicting Credit Default Risk using Statistical Modelling](https://github.com/CodingAbbas/Predicting_Credit_Default_Risk) [SAS]
+
+[Detecting Financial Fraud Using Machine Learning](https://github.com/CodingAbbas/Detecting_Financial_Fraud_Using_Machine_Learning) [Python] [SQL]
+
+[Analysing Payment Trends and Transaction Anomalies](https://github.com/CodingAbbas/Analysing_Payment_Trends_and_Transaction_Anomalies) [Python] [SQL]
+
+
+# 
+
+### CERTIFICATIONS 
+[Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/0JESUHVT9PZD)
+
+[Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/certificate/90I7KBZXWEUD)
+
+[SAS Programming: Data Manipulation Techniques](https://www.credly.com/badges/9143f791-32b9-43e9-afe2-951240b4e2f9/linked_in_profile)
+
+[SAS Programming: Essentials](https://www.credly.com/badges/2fedd67f-85a4-48d6-a320-8b06545d8024/linked_in_profile)
+
+[Data Literacy Essentials](https://www.credly.com/badges/d9f1b5f3-077d-465b-907a-a8c023a9c9f4/linked_in_profile)
+
+[Bloomberg Market Concepts](https://portal.bloombergforeducation.com/certificates/UqHce42HW4s146oH5idqma7C)
+
+#
