@@ -1,11 +1,3 @@
-## WELCOME
-
-Economics graduate from the University of Birmingham, with a strong foundation in econometrics, statistical modelling, and data analytics. 
-Experienced in applying quantitative methods to real-world financial problems across credit risk, fraud detection, and payment analytics.
-
-# 
-
-
 ## PROJECTS 
 
 [Predicting Credit Default Risk using Statistical Modelling](https://github.com/CodingAbbas/Predicting_Credit_Default_Risk) [SAS]
