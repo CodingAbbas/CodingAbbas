@@ -2,7 +2,7 @@
 
 Economics graduate from the University of Birmingham with a strong foundation in econometrics, statistical modelling, and data analytics. Passionate about applying quantitative methods to real-world financial problems across credit risk, fraud detection, and economic research.
 
-#
+
 
 ## PROJECTS 
 
