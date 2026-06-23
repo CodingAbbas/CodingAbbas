@@ -7,9 +7,9 @@ Economics graduate from the University of Birmingham with a strong background in
 
 ## PROJECTS 
 
-[Identifying Branch Dependent Customers in Retail Banking](https://github.com/CodingAbbas/Predicting_Credit_Default_Risk) [Python] [PowerBI]
-
 [Predicting Credit Default Risk using Statistical Modelling](https://github.com/CodingAbbas/Predicting_Credit_Default_Risk) [SAS]
+
+[Identifying Branch Dependent Customers in Retail Banking](https://github.com/CodingAbbas/Predicting_Credit_Default_Risk) [Python] [PowerBI]
 
 [Detecting Financial Fraud Using Machine Learning](https://github.com/CodingAbbas/Detecting_Financial_Fraud_Using_Machine_Learning) [Python] [SQL]
 
