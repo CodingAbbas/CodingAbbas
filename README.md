@@ -1,4 +1,4 @@
-### WELCOME
+## WELCOME
 
 Im an Economics graduate with a strong foundation in econometrics, 
 statistical modelling, and data analytics. Experienced in 
@@ -9,7 +9,7 @@ and macroeconomics.
 # 
 
 
-### PROJECTS 
+## PROJECTS 
 
 [Predicting Credit Default Risk using Statistical Modelling](https://github.com/CodingAbbas/Predicting_Credit_Default_Risk) [SAS]
 
@@ -20,7 +20,7 @@ and macroeconomics.
 
 # 
 
-### CERTIFICATIONS 
+## CERTIFICATIONS 
 [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/0JESUHVT9PZD)
 
 [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/certificate/90I7KBZXWEUD)
