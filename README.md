@@ -6,7 +6,7 @@
 
 [Analysing Payment Trends and Transaction Anomalies](https://github.com/CodingAbbas/Analysing_Payment_Trends_and_Transaction_Anomalies) [Python] [SQL]
 
-[Economic Influence of Birth Rate in Europe](https://github.com/CodingAbbas/Analysing_Payment_Trends_and_Transaction_Anomalies) [Python]
+[Demographic Decline in Europe Using Panel Data Analysis](https://github.com/CodingAbbas/Analysing_Payment_Trends_and_Transaction_Anomalies) [Python]
 
 [Cost of Brexit Using Time Series Analysis](https://github.com/CodingAbbas/Analysing_Payment_Trends_and_Transaction_Anomalies) [Python]
 
