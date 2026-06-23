@@ -2,7 +2,7 @@
 
 Passionate about solving real-world problems using data!
 
-Economics graduate from the University of Birmingham with a strong foundation in econometrics and statistical modelling. Currently building a portfolio of projects spanning credit risk scoring, fraud detection, and data quality monitoring, uncovering trends, investigating root causes, and translating complex datasets into clear, actionable insights. 
+Economics graduate from the University of Birmingham with a strong foundation in econometrics and statistical modelling. Currently building a portfolio of projects that reflect the problems and challenges I encounter throughout my career, uncovering trends, investigating root causes, and translating complex datasets into clear, actionable insights. 
 
 &nbsp;
 
