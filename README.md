@@ -1,5 +1,5 @@
-# ABBAS SHAH
-Economics graduate with a strong foundation in econometrics, 
+Hello
+Im an Economics graduate with a strong foundation in econometrics, 
 statistical modelling, and data analytics. Experienced in 
 applying quantitative methods to real-world financial problems 
 across credit risk, fraud detection, microeconomics, 
