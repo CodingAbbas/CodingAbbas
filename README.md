@@ -1,6 +1,6 @@
 ## WELCOME
 
-Economics graduate from the University of Birmingham with a strong background in econometrics, statistical modelling, and data analytics. I'm passionate about building a portfolio that reflects real-world problems, discovering new trends, investigating causalities, and translating data into clear and actionable insights.
+Economics graduate from the University of Birmingham with a strong background in econometrics, statistical modelling, and data analytics. I'm passionate about building a portfolio that reflects real-world problems, discovering new trends, investigating causalities, and translating data into actionable insights.
 
 &nbsp;
 
