@@ -1,3 +1,9 @@
+## WELCOME
+
+Economics graduate from the University of Birmingham with a strong foundation in econometrics, statistical modelling, and data analytics. Passionate about applying quantitative methods to real-world financial problems across credit risk, fraud detection, and economic research.
+
+&nbsp;
+
 ## PROJECTS 
 
 [Predicting Credit Default Risk using Statistical Modelling](https://github.com/CodingAbbas/Predicting_Credit_Default_Risk) [SAS]
@@ -10,7 +16,7 @@
 
 [Cost of Brexit Using Time Series Analysis](https://github.com/CodingAbbas/Analysing_Payment_Trends_and_Transaction_Anomalies) [Python]
 
-#
+&nbsp;
 
 ## CERTIFICATIONS 
 
@@ -26,4 +32,4 @@
 
 [Bloomberg Market Concepts](https://portal.bloombergforeducation.com/certificates/UqHce42HW4s146oH5idqma7C)
 
-#
+&nbsp;
