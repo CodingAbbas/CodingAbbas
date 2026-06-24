@@ -16,7 +16,6 @@ Economics graduate from the University of Birmingham with a strong background in
 
 [Demographic Decline in Europe Using Panel Data Analysis](https://github.com/CodingAbbas/Analysing_Payment_Trends_and_Transaction_Anomalies) [Python]
 
-[Cost of Brexit Using Time Series Analysis](https://github.com/CodingAbbas/Analysing_Payment_Trends_and_Transaction_Anomalies) [Python]
 
 &nbsp;
 
