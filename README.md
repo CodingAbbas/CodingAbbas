@@ -4,7 +4,6 @@ Economics graduate from the University of Birmingham with a strong background in
 
 &nbsp;
 
-
 ## PROJECTS 
 
 [Predicting Credit Default Risk using Statistical Modelling](https://github.com/CodingAbbas/Predicting_Credit_Default_Risk) [SAS]
