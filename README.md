@@ -6,16 +6,11 @@ Economics graduate from the University of Birmingham with a strong background in
 
 ## PROJECTS 
 
-[Predicting Credit Default Risk using Statistical Modelling](https://github.com/CodingAbbas/Predicting_Credit_Default_Risk) [SAS]
+[Predicting Credit Default Risk Using Statistical Modelling](https://github.com/CodingAbbas/Credit_Risk_Scorecard) [SAS]
 
-[Identifying Branch Dependent Customers in Retail Banking](https://github.com/CodingAbbas/Predicting_Credit_Default_Risk) [Python] [PowerBI]
+[The Decline of Physical Banking Access Across UK Communities](https://github.com/CodingAbbas/Branch_Closure_Analysis) [Python]
 
-[Detecting Financial Fraud Using Machine Learning](https://github.com/CodingAbbas/Detecting_Financial_Fraud_Using_Machine_Learning) [Python] [SQL]
-
-[Analysing Payment Trends and Transaction Anomalies](https://github.com/CodingAbbas/Analysing_Payment_Trends_and_Transaction_Anomalies) [Python] [SQL]
-
-[Demographic Decline in Europe Using Panel Data Analysis](https://github.com/CodingAbbas/Analysing_Payment_Trends_and_Transaction_Anomalies) [Python]
-
+[Demographic Decline and Economic Growth Across Europe](https://github.com/CodingAbbas/Demographic_Analysis) [Python]
 
 &nbsp;
 
