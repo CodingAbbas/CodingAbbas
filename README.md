@@ -12,6 +12,8 @@ Economics graduate from the University of Birmingham with a strong background in
 
 [Demographic Decline and Economic Growth Across Europe](https://github.com/CodingAbbas/Demographic_Analysis) [Python]
 
+[Analysing Payment Value & Fraud Concentration](https://github.com/CodingAbbas/Payment_Fraud_Concentration) [SQL]
+
 &nbsp;
 
 ## CERTIFICATIONS 
