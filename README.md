@@ -25,13 +25,13 @@ Economics graduate from the University of Birmingham with a strong background in
 
 [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/0JESUHVT9PZD) [2026]
 
-[Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/certificate/90I7KBZXWEUD) [2025]
-
 [SAS Programming 3: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/certificate/0JESUHVT9PZD) [Work In Prgress]
 
 [SAS Programming 2: Data Manipulation Techniques](https://www.credly.com/badges/9143f791-32b9-43e9-afe2-951240b4e2f9/linked_in_profile) [2025]
 
 [SAS Programming 1: Essentials](https://www.credly.com/badges/2fedd67f-85a4-48d6-a320-8b06545d8024/linked_in_profile) [2025]
+
+[Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/certificate/90I7KBZXWEUD) [2025]
 
 [Data Literacy Essentials](https://www.credly.com/badges/d9f1b5f3-077d-465b-907a-a8c023a9c9f4/linked_in_profile) [2025]
 
