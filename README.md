@@ -22,10 +22,11 @@ Economics graduate from the University of Birmingham with a strong background in
 
 ## CERTIFICATIONS 
 
+[AI Foundations](https://www.credly.com/badges/fd53e8e0-af9b-4206-9b87-674fb6848634) [2026]
+
+[Foundations of Risk and Asset Liability Management](https://www.credly.com/badges/0912cd2e-e839-419b-9fec-3df3c3726de0) [2026]
 
 [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/0JESUHVT9PZD) [2026]
-
-[SAS Programming 3: Advanced Techniques]() [Work In Prgress]
 
 [SAS Programming 2: Data Manipulation Techniques](https://www.credly.com/badges/9143f791-32b9-43e9-afe2-951240b4e2f9/linked_in_profile) [2025]
 
