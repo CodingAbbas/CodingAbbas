@@ -14,9 +14,9 @@ Economics graduate from the University of Birmingham with a strong background in
 
 [Analysing Payment Value & Fraud Concentration](https://github.com/CodingAbbas/Payment_Fraud_Concentration) [SQL]
 
-[Macroeconomic Drivers of Economic Risk](https://github.com/CodingAbbas/Payment_Fraud_Concentration) [Work In Progress]
+[Macroeconomic Drivers of Economic Risk]() [Work In Progress]
 
-[Stress Testing Loan Portfolios](https://github.com/CodingAbbas/Payment_Fraud_Concentration) [Work In Progress]
+[Stress Testing Loan Portfolios]() [Work In Progress]
 
 &nbsp;
 
@@ -25,7 +25,7 @@ Economics graduate from the University of Birmingham with a strong background in
 
 [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/0JESUHVT9PZD) [2026]
 
-[SAS Programming 3: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/certificate/0JESUHVT9PZD) [Work In Prgress]
+[SAS Programming 3: Advanced Techniques]() [Work In Prgress]
 
 [SAS Programming 2: Data Manipulation Techniques](https://www.credly.com/badges/9143f791-32b9-43e9-afe2-951240b4e2f9/linked_in_profile) [2025]
 
