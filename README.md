@@ -14,9 +14,6 @@ Economics graduate from the University of Birmingham with a strong background in
 
 [Analysing Payment Value & Fraud Concentration](https://github.com/CodingAbbas/Payment_Fraud_Concentration) [SQL]
 
-[Macroeconomic Drivers of Economic Risk]() [Work In Progress]
-
-[Stress Testing Loan Portfolios]() [Work In Progress]
 
 &nbsp;
 
