@@ -8,7 +8,7 @@
 
 [Analysing Payment Value & Fraud Concentration](https://github.com/CodingAbbas/Payment_Fraud_Concentration) [SQL]
 
-[Segmenting Bank Customers by Value and Activity]() [SQL]
+[Segmenting Bank Customers by Value and Activity](https://github.com/CodingAbbas/Segmenting_Bank_Customers) [SQL]
 
 
 
