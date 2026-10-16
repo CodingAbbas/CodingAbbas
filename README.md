@@ -1,14 +1,15 @@
 ## PROJECTS 
 
+[Analysing Payment Value & Fraud Concentration](https://github.com/CodingAbbas/Payment_Fraud_Concentration) [SQL]
+
+[Analysing Customer Spending & Revenue Concentration](https://github.com/CodingAbbas/Segmenting_Bank_Customers) [SQL]
+
 [Predicting Credit Default Risk Using Statistical Modelling](https://github.com/CodingAbbas/Credit_Risk_Scorecard) [SAS]
 
 [The Decline of Physical Banking Access Across UK Communities](https://github.com/CodingAbbas/Branch_Closure_Analysis) [Python]
 
 [Demographic Decline and Economic Growth Across Europe](https://github.com/CodingAbbas/Demographic_Analysis) [Python]
 
-[Analysing Payment Value & Fraud Concentration](https://github.com/CodingAbbas/Payment_Fraud_Concentration) [SQL]
-
-[Analysing Customer Spending & Revenue Concentration](https://github.com/CodingAbbas/Segmenting_Bank_Customers) [SQL]
 
 
 
