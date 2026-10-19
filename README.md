@@ -4,7 +4,7 @@
 
 [Customer Spending & Revenue Concentration](https://github.com/CodingAbbas/Segmenting_Bank_Customers) [SQL]
 
-[Credit Risk Scorecard Predicting Borrower Default](https://github.com/CodingAbbas/Credit_Risk_Scorecard) [SAS]
+[Credit Risk Scorecard: Predicting Borrower Default](https://github.com/CodingAbbas/Credit_Risk_Scorecard) [SAS] [EXCEL]
 
 [Where UK Banking Branch Access Declined Most from 2015 to 2025](https://github.com/CodingAbbas/Branch_Closure_Analysis) [Python]
 
