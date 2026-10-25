@@ -10,12 +10,6 @@
 
 [Demographic Decline and Economic Growth Across Europe](https://github.com/CodingAbbas/Demographic_Analysis) [Python]
 
-
-
-
-
-
-
 &nbsp;
 
 ## CERTIFICATIONS 
@@ -37,3 +31,12 @@
 [Bloomberg Market Concepts](https://portal.bloombergforeducation.com/certificates/UqHce42HW4s146oH5idqma7C) [2024]
 
 &nbsp;
+
+## PENDING
+
+[Scam and Fraud Detection Rules with Performance Monitoring]() [SQL] [Python]
+
+[Mule Account and Laundering Network Detection]() [Python] [SQL]
+
+[Economic Crime Risk Assessment and Control Testing Framework]() [Python] [Excel]
+
