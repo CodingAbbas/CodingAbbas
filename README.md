@@ -34,9 +34,9 @@
 
 ## PENDING
 
-[Scam and Fraud Detection Rules with Performance Monitoring]() [SQL] [Python]
+[Scam and Fraud Detection Rules with Performance Monitoring]() [SQL] [Python] [PowerBI]
 
-[Mule Account and Laundering Network Detection]() [Python] [SQL]
+[Mule Account and Laundering Network Detection]() [Python] [SQL] 
 
 [Economic Crime Risk Assessment and Control Testing Framework]() [Python] [Excel]
 
